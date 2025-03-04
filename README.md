@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @N1vnhil
-- 👀 I’m interested in Java/Go Development, NLP, LLMs
+- 👀 I’m looking for a Java/Go Development job/intern.
 - 🌱 I’m familiar with SSM framework, MySQL, Redis, RocketMQ.
 - 💞️ I’m looking to collaborate on Java/Go backend project.
 - 📫 How to reach me: n1vnhil@sjtu.edu.cn
