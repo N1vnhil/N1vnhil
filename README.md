@@ -2,9 +2,9 @@
 - I’m looking for a **Java/Go** Development job/intern.
 - I’m familiar with Java SE, particularly **Java Collection**, **Reflection**, and **IO**. I also know about **JVM memory model** and **GC mechanism**.
 - I’m familiar with backend frameworks including **Spring**, **Spring MVC**, **Spring Boot**, **Mybatis**, understand the implementation of Spring **IOC** and **AOP** features.
-- I’m proficient in using **MySql**, understand MySql **transaction**, **DB engine**, and **index**.
-- I’m familiar with **Redis datastructure**, know about Redis **distributed lock**.
-- I’ve also learned about basic frontend development skills, know about **Vue3** framework.
+- I’m proficient in using **MySql**, understand MySql **transactions**, **DB engines**, and **indexing**.
+- I’m familiar with **Redis datastructures**, know about Redis **distributed locks**.
+- I’ve also learned basic frontend development skills, know about **Vue3** framework.
 - **Contact**: n1vnhil@sjtu.edu.cn
 
 
